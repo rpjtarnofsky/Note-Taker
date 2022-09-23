@@ -13,4 +13,19 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 # Usage
-![] 
+
+These images show the functionality and appearance of the web application:
+
+![](Images/11-express-homework-demo-01.png)
+
+
+
+
+
+
+![](Images/11-express-homework-demo-02.png)
+
+
+# Additional Info:
+  - Github: [rpjtarnofsky](https://github.com/rpjtarnofsky)
+  - Email: rpjtarnofsky@gmail.com 
